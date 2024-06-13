@@ -6,21 +6,21 @@
   <title>PUNTO DE VENTA | Dashboard</title>
 
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="/puntoventadiego/public/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="/libreria/public/plugins/fontawesome-free/css/all.min.css">
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <!-- Tempusdominus Bootstrap 4 -->
-  <link rel="stylesheet" href="/puntoventadiego/public/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
+  <link rel="stylesheet" href="/libreria/public/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
   <!-- iCheck -->
-  <link rel="stylesheet" href="/puntoventadiego/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+  <link rel="stylesheet" href="/libreria/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="/puntoventadiego/public/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="/libreria/public/dist/css/adminlte.min.css">
   <!-- overlayScrollbars -->
-  <link rel="stylesheet" href="/puntoventadiego/public/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+  <link rel="stylesheet" href="/libreria/public/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
   <!-- Daterange picker -->
-  <link rel="stylesheet" href="/puntoventadiego/public/plugins/daterangepicker/daterangepicker.css">
+  <link rel="stylesheet" href="/libreria/public/plugins/daterangepicker/daterangepicker.css">
   <!-- summernote -->
-  <link rel="stylesheet" href="/puntoventadiego/public/plugins/summernote/summernote-bs4.min.css">
+  <link rel="stylesheet" href="/libreria/public/plugins/summernote/summernote-bs4.min.css">
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
@@ -103,21 +103,21 @@
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-copy"></i>
               <p>
-                Almacen
+                Librerias
                 <i class="fas fa-angle-left right"></i>
               </p>
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="/puntoventadiego/public/almacen/producto" class="nav-link">
+                <a href="/libreria/public/almacen/producto" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Productos</p>
+                  <p>Libros</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/puntoventadiego/public/almacen/categoria" class="nav-link">
+                <a href="/libreria/public/almacen/categoria" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Categorías</p>
+                  <p>Libros</p>
                 </a>
               </li>
             </ul>
@@ -261,33 +261,33 @@
 <!-- ./wrapper -->
 
 <!-- jQuery -->
-<script src="/puntoventadiego/public/plugins/jquery/jquery.min.js"></script>
+<script src="/libreria/public/plugins/jquery/jquery.min.js"></script>
 <!-- jQuery UI 1.11.4 -->
-<script src="/puntoventadiego/public/plugins/jquery-ui/jquery-ui.min.js"></script>
+<script src="/libreria/public/plugins/jquery-ui/jquery-ui.min.js"></script>
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
 <script>
   $.widget.bridge('uibutton', $.ui.button)
 </script>
 <!-- Bootstrap 4 -->
-<script src="/puntoventadiego/public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/libreria/public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- ChartJS -->
-<script src="/puntoventadiego/public/plugins/chart.js/Chart.min.js"></script>
+<script src="/libreria/public/plugins/chart.js/Chart.min.js"></script>
 <!-- Sparkline -->
-<script src="/puntoventadiego/public/plugins/sparklines/sparkline.js"></script>
+<script src="/libreria/public/plugins/sparklines/sparkline.js"></script>
 <!-- jQuery Knob Chart -->
-<script src="/puntoventadiego/public/plugins/jquery-knob/jquery.knob.min.js"></script>
+<script src="/libreria/public/plugins/jquery-knob/jquery.knob.min.js"></script>
 <!-- daterangepicker -->
-<script src="/puntoventadiego/public/plugins/moment/moment.min.js"></script>
-<script src="/puntoventadiego/public/plugins/daterangepicker/daterangepicker.js"></script>
+<script src="/libreria/public/plugins/moment/moment.min.js"></script>
+<script src="/libreria/public/plugins/daterangepicker/daterangepicker.js"></script>
 <!-- Tempusdominus Bootstrap 4 -->
-<script src="/puntoventadiego/public/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+<script src="/libreria/public/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
 <!-- Summernote -->
-<script src="/puntoventadiego/public/plugins/summernote/summernote-bs4.min.js"></script>
+<script src="/libreria/public/plugins/summernote/summernote-bs4.min.js"></script>
 <!-- overlayScrollbars -->
-<script src="/puntoventadiego/public/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+<script src="/libreria/public/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
 <!-- AdminLTE App -->
-<script src="/puntoventadiego/public/dist/js/adminlte.js"></script>
+<script src="/libreria/public/dist/js/adminlte.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-<script src="/puntoventadiego/public/dist/js/pages/dashboard.js"></script>
+<script src="/libreria/public/dist/js/pages/dashboard.js"></script>
 </body>
 </html>
